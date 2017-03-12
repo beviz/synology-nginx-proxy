@@ -1,0 +1,5 @@
+TOKEN="ID,SECRET"
+RECORD_LINE="默认"
+DOMAIN="domain.com"
+CERT_DOMAINS="domain.com"
+#ECC=TRUE

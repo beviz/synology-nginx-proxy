@@ -1,0 +1,5 @@
+certs/*
+vhost.d/*
+le-renew/dnspod.conf
+le-renew/accounts
+le-renew/domains.txt
